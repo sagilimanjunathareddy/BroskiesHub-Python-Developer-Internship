@@ -10,3 +10,17 @@ A simple Python-based calculator script that supports basic arithmetic operation
 ##  Usage
 
 python calculator.py
+
+## Task :- 1 [To-Do List] 
+A simple and persistent command-line To-Do List manager built using Python.
+
+📌 Features
+Add new tasks
+
+View existing tasks
+
+Remove tasks by number
+
+Save and load tasks from a file (tasks.txt)
+# Tech Stack
+Language: Python 3
