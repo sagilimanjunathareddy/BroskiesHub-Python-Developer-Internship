@@ -24,3 +24,25 @@ Remove tasks by number
 Save and load tasks from a file (tasks.txt)
 # Tech Stack
 Language: Python 3
+
+# TAsk :- 3 News Headlines Web Scraper
+
+This is a simple Python-based web scraper that extracts top news headlines from a public news website using **requests** and **BeautifulSoup**, then saves them into a `.txt` file.
+
+
+
+## 📌 Objective
+
+Scrape the latest news headlines (e.g., `<h1>`, `<h2>`, `<title>`) from a chosen news website and save them in a text file for offline reading or analysis.
+
+
+
+## 🛠️ Tools Used
+
+- **Python 3**
+- **requests** (for fetching HTML)
+- **BeautifulSoup (bs4)** (for parsing HTML)
+
+
+
+
