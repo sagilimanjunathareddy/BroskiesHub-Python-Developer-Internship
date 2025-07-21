@@ -42,8 +42,8 @@ Scrape the latest news headlines (e.g., `<h1>`, `<h2>`, `<title>`) from a chosen
 - **Python 3**
 - **requests** (for fetching HTML)
 - **BeautifulSoup (bs4)** (for parsing HTML)
-
-#📝 Task 04: Build a REST API with Flask
+-
+# Task 04: Build a REST API with Flask
 This is a simple Python-based REST API built using Flask that allows you to manage user data. It includes full CRUD functionality with endpoints for creating, reading, updating, and deleting user information stored in an in-memory dictionary.
 
 📌 Objective
@@ -55,6 +55,8 @@ Python 3
 Flask (for creating RESTful routes)
 
 Postman or Curl (for testing API endpoints)
+
+
 
 
 
