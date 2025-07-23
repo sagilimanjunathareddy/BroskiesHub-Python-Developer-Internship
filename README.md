@@ -56,6 +56,21 @@ Flask (for creating RESTful routes)
 
 Postman or Curl (for testing API endpoints)
 
+#  Sales Data Analysis using Python
+
+This project performs simple data analysis on a sales dataset using **Pandas** and **Matplotlib**.
+
+---
+## ✅ Features
+
+- Load and inspect CSV data
+- Group and summarize sales by product
+- Plot total sales by product (bar chart)
+- Plot sales over time (line chart)
+
+
+
+
 
 
 
